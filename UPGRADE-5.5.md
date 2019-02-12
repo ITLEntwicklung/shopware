@@ -28,6 +28,7 @@ This changelog references changes done in Shopware 5.5 patch versions.
     * `CategoryDuplicator`
     * `CategoryDenormalization`
     * `MediaSubscriber`
+* Mein Test
 
 ### Deprecations
 
